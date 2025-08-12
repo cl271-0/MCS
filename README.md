@@ -1,5 +1,5 @@
 # My-Client-Software
-//介绍 introduce
+//介绍 Introduce
 
 和你的好朋友用这个软件，额，只不过现在还在测试阶段… 
 
