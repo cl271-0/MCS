@@ -10,9 +10,9 @@ First of all, we warmly welcome the submission of vulnerabilities and feedback!
 
 //介绍 Introduce
 
-和你的好朋友用这个软件，额，只不过现在还在测试阶段… 
+和你的好朋友用这个软件，额，只不过现在还在测试阶段… 目前没有想好用什么语言开发 也许是Electron？
 
-Use this app with your friends. But this software is under test...
+Use this app with your friends. But this software is under test... At present, we haven't decided which language to use for development. Maybe it will be Electron?
 
 
 //关于为什么我要做这个项目 Regarding why I decided to undertake this project
