@@ -1,7 +1,7 @@
 
 # MCS (My Client Software)
 
-和你的好朋友用这个软件，额，只不过现在还在测试阶段… 可以去MCS-Dev仓库看看
+和你的好朋友用这个软件，额，只不过现在还在测试阶段… 可以去[MCS-Dev](https://github.com/cl271-0/MCS-Dev)仓库看看
 
 
 ## 关于作者
