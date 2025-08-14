@@ -1,32 +1,17 @@
-# My-Client-Software
-//========================================
 
-首先，欢迎提交漏洞与反馈！
+# MCS (My Client Software)
 
-First of all, we warmly welcome the submission of vulnerabilities and feedback!
-
-//========================================
+和你的好朋友用这个软件，额，只不过现在还在测试阶段… 可以去MCS-Dev仓库看看
 
 
-//介绍 Introduce
+## 关于作者
 
-和你的好朋友用这个软件，额，只不过现在还在测试阶段… 目前没有想好用什么语言开发 也许是Electron？
+- [@cl271](https://github.com/cl271-0)
 
-Use this app with your friends. But this software is under test... At present, we haven't decided which language to use for development. Maybe it will be Electron?
-
-
-//关于为什么我要做这个项目 Regarding why I decided to undertake this project
+- 为什么我要做一个这样的软件/创建这个项目
 
 这个项目的起因是我希望和朋友玩游戏的时候会更方便 如果做的比较好的话 我也希望能够推广甚至有出名哈哈 我希望我能坚持下去
+## 爱发电
 
-The reason for this project is that I hope it will be more convenient when playing games with friends. If it goes well, I also hope to promote it and even become famous. Haha, I hope I can stick to it.
-
-
-//爱发电 AFDIAN
-
-我会在这里捣弄一些我测试用的东西 正式版发行大多在爱发电…
-
-I'll be messing around with some stuff for testing here. The official version is mostly released on AFDIAN...
-
-这是我的爱发电主页 This is my AFDIAN homepage.
-https://afdian.com/a/cl271
+- [前往作者的爱发电主页](https://afdian.com/a/cl271)
+会发布一些已编译的版本 包括作者的Dev小测试、正式版等等
