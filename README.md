@@ -1,6 +1,8 @@
 
 # MCS (My Client Software)
 
+[![爱发电](https://img.shields.io/badge/赞助-爱发电-403B98?style=flat&logoColor=white)](https://afdian.net/a/cl271)
+
 和你的好朋友用这个软件，额，只不过现在还在测试阶段… 可以去[MCS-Dev](https://github.com/cl271-0/MCS-Dev)仓库看看
 
 
