@@ -20,3 +20,6 @@
 - [前往作者的爱发电主页](https://afdian.com/a/cl271)
 
 会发布一些已编译的版本 包括作者的Dev小测试、正式版等等
+
+## ⚠️注意！！！
+若要运行该系列软件，请安装[.NET 6 运行库](https://dotnet.microsoft.com/zh-cn/download/dotnet/6.0)
